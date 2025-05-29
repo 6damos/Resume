@@ -1,2 +1,2 @@
 # Cybersecurity-Resume
-A detailed review of my work experiences, skills, education, and interest.
+A detailed review of my work experiences, skills, and education.
